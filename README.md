@@ -1,14 +1,19 @@
 <div align="center">
-
-# PARNEET KAUR
-
-### Computer Science Engineering Student
-
-**Java • Backend Engineering • Full Stack • AI**
-
-Building software with a focus on understanding the engineering behind it.
+ <img
+    src="./assets/hero-banner.svg"
+    alt="Parneet Kaur — Software Engineering, Java, Backend, Full Stack and AI"
+    width="100%"
+  />
 
 <br/>
+
+<p align="center">
+  <b>Computer Science Engineering Student • Software & Backend Engineering</b>
+</p>
+
+<p align="center">
+  Building software with a focus on understanding the engineering behind it.
+</p>
 
 </div>
 
@@ -83,6 +88,61 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   </tr>
 </table>
 
+## 🏆 Highlights & Milestones
+
+<div align="center">
+
+> **Consistent problem solving • Strong academics • Continuous engineering growth**
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧩 250+
+
+**LeetCode**
+
+<sub>Problems & interview-focused<br/>DSA practice</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 150+
+
+**GeeksforGeeks**
+
+<sub>Data structures, algorithms<br/>& problem solving</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓 9.3
+
+**CGPA**
+
+<sub>Computer Science<br/>Engineering</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥 700+
+
+**DSA Commits**
+
+<sub>Consistent Java DSA<br/>learning journey</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 # 🚀 Featured Engineering Work
 
@@ -105,16 +165,17 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 `React` • `JavaScript` • `Node.js` • `Express.js` • `REST APIs` • `AI APIs`
 
-### System Flow
+
+### 🏗️ System Architecture
 
 ```mermaid
 flowchart LR
-    U[User] --> UI[React Client]
-    UI --> API[REST API]
-    API --> C[Controller]
-    C --> S[AI Service]
-    S --> P[Prompt Builder]
-    P --> L[LLM Provider]
+    U[👤 User] --> UI[⚛️ React Client]
+    UI --> API[🌐 REST API]
+    API --> C[🎯 Controller]
+    C --> S[⚙️ AI Service]
+    S --> P[🧠 Prompt Builder]
+    P --> L[🤖 LLM Provider]
 ```
 
 ### What I'm learning through this project
@@ -164,7 +225,7 @@ flowchart LR
     C --> E[Edge Cases]
     E --> I[Interview Explanation]
 ```
-
+> **Goal:** Don't just solve the problem — understand the pattern well enough to recognize and explain it again.
 
 ➡️ **[Explore My DSA Journey](https://github.com/Parneetk104/Dsa-LeetCode)**
 
@@ -222,20 +283,6 @@ I'm deliberately learning to think beyond features and consider:
 
 `Architecture` • `Separation of Concerns` • `API Design` • `Data Flow` • `Maintainability` • `Testing` • `Scalability`
 
-
-# 🔍 What I Want My Projects to Prove
-
-```text
-Can I solve problems?
-        ↓
-Can I build features?
-        ↓
-Can I structure applications?
-        ↓
-Can I explain technical decisions?
-        ↓
-Can I improve the design?
-```
 ---
 
 # 🎯 Current Engineering Roadmap

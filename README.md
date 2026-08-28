@@ -1,14 +1,19 @@
 <div align="center">
-
-# PARNEET KAUR
-
-### Computer Science Engineering Student
-
-**Java • Backend Engineering • Full Stack • AI**
-
-Building software with a focus on understanding the engineering behind it.
+ <img
+    src="./assets/hero-banner.svg"
+    alt="Parneet Kaur — Software Engineering, Java, Backend, Full Stack and AI"
+    width="100%"
+  />
 
 <br/>
+
+<p align="center">
+  <b>Computer Science Engineering Student • Software & Backend Engineering</b>
+</p>
+
+<p align="center">
+  Building software with a focus on understanding the engineering behind it.
+</p>
 
 </div>
 
@@ -21,7 +26,7 @@ Building software with a focus on understanding the engineering behind it.
 </p>
 
 <br/>
----
+
 <table align="center">
   <tr>
     <td align="center">
@@ -83,6 +88,61 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   </tr>
 </table>
 
+## 🏆 Highlights & Milestones
+
+<div align="center">
+
+> **Consistent problem solving • Strong academics • Continuous engineering growth**
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧩 250+
+
+**LeetCode**
+
+<sub>Problems & interview-focused<br/>DSA practice</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 150+
+
+**GeeksforGeeks**
+
+<sub>Data structures, algorithms<br/>& problem solving</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓 9.3
+
+**CGPA**
+
+<sub>Computer Science<br/>Engineering</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥 700+
+
+**DSA Commits**
+
+<sub>Consistent Java DSA<br/>learning journey</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 # 🚀 Featured Engineering Work
 
@@ -105,16 +165,17 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 `React` • `JavaScript` • `Node.js` • `Express.js` • `REST APIs` • `AI APIs`
 
-### System Flow
+
+### 🏗️ System Architecture
 
 ```mermaid
 flowchart LR
-    U[User] --> UI[React Client]
-    UI --> API[REST API]
-    API --> C[Controller]
-    C --> S[AI Service]
-    S --> P[Prompt Builder]
-    P --> L[LLM Provider]
+    U[👤 User] --> UI[⚛️ React Client]
+    UI --> API[🌐 REST API]
+    API --> C[🎯 Controller]
+    C --> S[⚙️ AI Service]
+    S --> P[🧠 Prompt Builder]
+    P --> L[🤖 LLM Provider]
 ```
 
 ### What I'm learning through this project
@@ -126,7 +187,20 @@ flowchart LR
 `Error Handling`
 `AI Integration`
 
-➡️ **[Explore CodeMentor AI](https://github.com/Parneetk104/Codementor-ai)**
+<p align="center">
+
+<a href="https://github.com/Parneetk104/Codementor-ai">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+<a href="YOUR_LIVE_URL">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_ARCHITECTURE_FILE">
+  <img src="https://img.shields.io/badge/Architecture-2563EB?style=for-the-badge" />
+</a>
 
 ---
 
@@ -164,21 +238,9 @@ flowchart LR
     C --> E[Edge Cases]
     E --> I[Interview Explanation]
 ```
-
+> **Goal:** Don't just solve the problem — understand the pattern well enough to recognize and explain it again.
 
 ➡️ **[Explore My DSA Journey](https://github.com/Parneetk104/Dsa-LeetCode)**
-
----
-
-# 🐧 Linux & Developer Foundations
-
-I'm also documenting my Linux learning journey to strengthen the developer fundamentals behind backend engineering and software development.
-
-### Areas I'm exploring
-
-`Linux Commands` • `Bash` • `Shell` • `Processes` • `Permissions` • `Environment` • `Developer Tooling`
-
-➡️ **[Explore Linux Mastery Journey](https://github.com/Parneetk104/linux-mastery-journey)**
 
 ---
 
@@ -222,49 +284,17 @@ I'm deliberately learning to think beyond features and consider:
 
 `Architecture` • `Separation of Concerns` • `API Design` • `Data Flow` • `Maintainability` • `Testing` • `Scalability`
 
-
-# 🔍 What I Want My Projects to Prove
-
-```text
-Can I solve problems?
-        ↓
-Can I build features?
-        ↓
-Can I structure applications?
-        ↓
-Can I explain technical decisions?
-        ↓
-Can I improve the design?
-```
 ---
 
-# 🎯 Current Engineering Roadmap
+# 🎯 Engineering Roadmap
 
-### Strengthening
-
-`Java`
-`DSA`
-`Backend Fundamentals`
-`REST API Development`
-
-### Building
-
-`Full-Stack Applications`
-`AI-Powered Software`
-`Production-Style Projects`
-
-### Learning Next
-
-`Spring Boot`
-`PostgreSQL in Depth`
-`Docker`
-`Redis`
-`Testing`
-`System Design`
-
-### Long-Term Direction
-
-**Backend Engineering • Software Engineering • AI-Integrated Applications**
+| Now | Next | Direction |
+|---|---|---|
+| Java | Spring Boot | Backend Engineering |
+| DSA | Docker | Software Engineering |
+| REST APIs | Redis | Scalable Systems |
+| Full Stack | Testing | AI-Integrated Products |
+| AI Integration | System Design | Production Engineering |
 
 ---
 
@@ -274,15 +304,29 @@ I'm always interested in conversations around:
 
 **Software Engineering • Java • Backend Development • DSA • System Design • AI-Powered Products**
 
-Add your verified links here before publishing:
+<p align="center">
 
-`LinkedIn` • `LeetCode` • `Portfolio` • `Resume`
+<a href="https://www.linkedin.com/in/parneet-kaur-858472274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="https://leetcode.com/u/parneetk3298/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</p>
+
+<br/>
 
 <div align="center">
 
-### Build → Understand → Engineer → Improve
+---
+
+### `BUILD` → `UNDERSTAND` → `ENGINEER` → `IMPROVE`
 
 **Learning to build systems, not just features.**
 

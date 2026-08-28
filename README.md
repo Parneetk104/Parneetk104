@@ -4,19 +4,46 @@
 
 ### Computer Science Engineering Student
 
-### `Java` • `Backend Engineering` • `Full Stack` • `AI`
+**Java • Backend Engineering • Full Stack • AI**
 
-**Building software with a focus on understanding the engineering behind it.**
+Building software with a focus on understanding the engineering behind it.
 
-<br>
-
-`700+ DSA Commits`   •   `AI-Powered Projects`   •   `Java & Backend Focus`
-
-<br>
+<br/>
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br/>
 ---
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>700+</strong><br/>
+      DSA Commits
+    </td>
+    <td align="center">
+      <strong>Java</strong><br/>
+      Core Language
+    </td>
+    <td align="center">
+      <strong>CodeMentor AI</strong><br/>
+      Currently Building
+    </td>
+    <td align="center">
+      <strong>Backend</strong><br/>
+      Engineering Focus
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## ⚡ Engineering Snapshot
 
@@ -33,65 +60,61 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student focused on becoming a strong **software and backend engineer**.
+I'm a Computer Science Engineering student focused on **Java, backend engineering, full-stack development, and AI-powered software**.
 
-I enjoy building applications, but I'm increasingly interested in what happens **behind the feature**:
+I enjoy building applications, but I'm increasingly interested in what happens **behind the feature** — architecture, APIs, data flow, maintainability, performance, and the engineering decisions that make software reliable.
 
-* Why was this architecture chosen?
-* Where should business logic live?
-* How should APIs be structured?
-* What happens when the system grows?
-* How can the solution be made cleaner, faster, or easier to maintain?
+<table>
+  <tr>
+    <td>🔨 <b>Building</b></td>
+    <td>CodeMentor AI</td>
+  </tr>
+  <tr>
+    <td>☕ <b>Core Focus</b></td>
+    <td>Java • Backend Engineering</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Problem Solving</b></td>
+    <td>DSA • Interview Patterns</td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Exploring</b></td>
+    <td>Spring Boot • Docker • Redis • System Design</td>
+  </tr>
+</table>
 
-My goal is to move beyond:
-
-> **“Can I make this work?”**
-
-towards:
-
-> **“Is this the right way to design it?”**
-
----
 
 # 🚀 Featured Engineering Work
 
 ## 🤖 CodeMentor AI
+### AI-Powered DSA Learning Platform
 
-### AI-Powered DSA Learning & Code Understanding Platform
+> A system designed to help developers **understand coding problems**, rather than simply generating solutions.
 
-CodeMentor AI is being built to help developers understand coding problems through **structured explanations rather than simply generating answers**.
+`React` • `Node.js` • `Express.js` • `REST APIs` • `LLM Integration`
 
-### What the system focuses on
+### What It Does
 
-* Problem understanding
-* Beginner-friendly explanations
-* Interview-oriented explanations
-* Brute-force → optimized progression
-* Dry runs
-* Time & space complexity
-* Debugging guidance
-* AI-assisted code understanding
+**Problem Understanding → Approaches → Optimization → Dry Run → Complexity → Debugging**
+
+### Engineering Focus
+
+`Layered Architecture` • `API Design` • `Prompt Orchestration` • `Error Handling` • `Frontend/Backend Separation`
 
 ### Tech
 
 `React` • `JavaScript` • `Node.js` • `Express.js` • `REST APIs` • `AI APIs`
 
-### Engineering Structure
+### System Flow
 
-```text
-User
-  ↓
-React Client
-  ↓
-REST API
-  ↓
-Controller Layer
-  ↓
-Service Layer
-  ↓
-Prompt / AI Logic
-  ↓
-LLM Provider
+```mermaid
+flowchart LR
+    U[User] --> UI[React Client]
+    UI --> API[REST API]
+    API --> C[Controller]
+    C --> S[AI Service]
+    S --> P[Prompt Builder]
+    P --> L[LLM Provider]
 ```
 
 ### What I'm learning through this project
@@ -109,50 +132,39 @@ LLM Provider
 
 # 🧠 Algorithmic Problem Solving
 
-## 700+ GitHub Commits and Growing
+<div align="center">
 
-My DSA repository represents my ongoing effort to build strong **problem-solving fundamentals and interview pattern recognition using Java**.
+## 700+ Repository Commits
 
-### Patterns Practiced
+**Java • Pattern Recognition • Interview Preparation**
 
-| Foundations | Interview Patterns | Data Structures |
-| ----------- | ------------------ | --------------- |
-| Arrays      | Two Pointers       | Linked Lists    |
-| Strings     | Sliding Window     | Stacks          |
-| Hashing     | Binary Search      | Queues          |
-| Prefix Sum  | Greedy             | Trees           |
-| Recursion   | Backtracking       | Heaps           |
+</div>
+
+| Pattern | Focus |
+|---|---|
+| Arrays & Strings | Foundations and problem decomposition |
+| Two Pointers | Pointer movement and invariants |
+| Sliding Window | Fixed and variable windows |
+| Binary Search | Arrays and answer-space search |
+| Linked Lists | Pointer manipulation |
+| Stack & Queue | Simulation and monotonic patterns |
+| Trees | Recursion, DFS and BFS |
+| Heaps | Priority-based problems |
+| Greedy | Local decision strategies |
+| Backtracking | State-space exploration |
 
 ### My Problem-Solving Process
 
-```text
-Understand the Problem
-        ↓
-Identify Constraints
-        ↓
-Brute Force
-        ↓
-Find the Pattern
-        ↓
-Optimize
-        ↓
-Analyze Complexity
-        ↓
-Test Edge Cases
-        ↓
-Explain Like an Interview
+```mermaid
+flowchart LR
+    P[Problem] --> B[Brute Force]
+    B --> O[Recognize Pattern]
+    O --> X[Optimize]
+    X --> C[Complexity]
+    C --> E[Edge Cases]
+    E --> I[Interview Explanation]
 ```
 
-I don't want DSA to become a collection of accepted submissions.
-
-The goal is to understand:
-
-* **Why** an approach works
-* **When** a pattern should be recognized
-* Why one solution is better than another
-* Time and space complexity
-* Important edge cases
-* How to communicate the solution clearly during an interview
 
 ➡️ **[Explore My DSA Journey](https://github.com/Parneetk104/Dsa-LeetCode)**
 
@@ -172,94 +184,44 @@ I'm also documenting my Linux learning journey to strengthen the developer funda
 
 # 🛠️ Technical Toolkit
 
-### Languages
-
-`Java`   `JavaScript`   `Python`   `SQL`
+### Core Languages
+`Java` `JavaScript` `Python` `SQL`
 
 ### Frontend
-
-`React`   `Vite`   `Tailwind CSS`   `HTML`   `CSS`
+`React` `Vite` `Tailwind CSS` `HTML` `CSS`
 
 ### Backend
+`Node.js` `Express.js` `REST APIs`
 
-`Node.js`   `Express.js`   `REST APIs`
+### Data
+`MongoDB` `PostgreSQL`
 
-### Databases
+### Engineering Tools
+`Git` `GitHub` `Postman` `Linux`
 
-`MongoDB`   `PostgreSQL`
-
-### Developer Tools
-
-`Git`   `GitHub`   `Postman`   `Linux`
-
-### Currently Expanding Into
-
-`Spring Boot`   `Docker`   `Redis`   `System Design`   `AI/ML`
-
-> **Technologies in this section are intentionally separated between what I currently use and what I'm actively learning.**
+### Currently Learning
+`Spring Boot` `Docker` `Redis` `System Design` `AI/ML`
 
 ---
 
 # 🏗️ Engineering Mindset
 
-I want my projects to demonstrate more than frameworks.
-
-I'm deliberately working towards understanding:
-
-### 01 — Clean Structure
-
-```text
-UI
-↓
-API
-↓
-Controller
-↓
-Service
-↓
-Data / External Services
+```mermaid
+flowchart LR
+    A[Problem] --> B[Understand]
+    B --> C[Design]
+    C --> D[Build]
+    D --> E[Test]
+    E --> F[Measure]
+    F --> G[Improve]
 ```
 
-### 02 — Engineering Decisions
+> ### Moving from **“Can I build this?”** toward **“Why should it be designed this way?”**
 
-Not only:
+I'm deliberately learning to think beyond features and consider:
 
-> “I used MongoDB.”
+`Architecture` • `Separation of Concerns` • `API Design` • `Data Flow` • `Maintainability` • `Testing` • `Scalability`
 
-But:
-
-> “Why was MongoDB appropriate here?”
-
-Not only:
-
-> “I added Redis.”
-
-But:
-
-> “What problem does caching actually solve in this system?”
-
-### 03 — Maintainability
-
-I care about:
-
-`Separation of Concerns`
-`Readable Code`
-`Reusable Components`
-`Clear APIs`
-`Error Handling`
-`Documentation`
-
-### 04 — Scalability Thinking
-
-Even while working on student projects, I'm learning to ask:
-
-> What happens if 10 users become 10,000?
-
-Not every project needs distributed systems.
-
-But every developer should eventually learn to recognize **where systems start breaking and why**.
-
----
 
 # 🔍 What I Want My Projects to Prove
 
@@ -274,9 +236,6 @@ Can I explain technical decisions?
         ↓
 Can I improve the design?
 ```
-
-My goal is to build a GitHub profile where the repositories themselves become evidence of those answers.
-
 ---
 
 # 🎯 Current Engineering Roadmap

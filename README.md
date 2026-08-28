@@ -26,7 +26,7 @@
 </p>
 
 <br/>
----
+
 <table align="center">
   <tr>
     <td align="center">
@@ -187,7 +187,7 @@ flowchart LR
 `Error Handling`
 `AI Integration`
 
-➡️ <p align="center">
+<p align="center">
 
 <a href="https://github.com/Parneetk104/Codementor-ai">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -241,18 +241,6 @@ flowchart LR
 > **Goal:** Don't just solve the problem — understand the pattern well enough to recognize and explain it again.
 
 ➡️ **[Explore My DSA Journey](https://github.com/Parneetk104/Dsa-LeetCode)**
-
----
-
-# 🐧 Linux & Developer Foundations
-
-I'm also documenting my Linux learning journey to strengthen the developer fundamentals behind backend engineering and software development.
-
-### Areas I'm exploring
-
-`Linux Commands` • `Bash` • `Shell` • `Processes` • `Permissions` • `Environment` • `Developer Tooling`
-
-➡️ **[Explore Linux Mastery Journey](https://github.com/Parneetk104/linux-mastery-journey)**
 
 ---
 
@@ -316,8 +304,6 @@ I'm always interested in conversations around:
 
 **Software Engineering • Java • Backend Development • DSA • System Design • AI-Powered Products**
 
-## 🤝 Let's Connect
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/parneet-kaur-858472274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
@@ -333,8 +319,6 @@ I'm always interested in conversations around:
 </a>
 
 </p>
-
----
 
 <br/>
 

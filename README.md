@@ -187,7 +187,20 @@ flowchart LR
 `Error Handling`
 `AI Integration`
 
-➡️ **[Explore CodeMentor AI](https://github.com/Parneetk104/Codementor-ai)**
+➡️ <p align="center">
+
+<a href="https://github.com/Parneetk104/Codementor-ai">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+<a href="YOUR_LIVE_URL">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_ARCHITECTURE_FILE">
+  <img src="https://img.shields.io/badge/Architecture-2563EB?style=for-the-badge" />
+</a>
 
 ---
 
@@ -285,33 +298,15 @@ I'm deliberately learning to think beyond features and consider:
 
 ---
 
-# 🎯 Current Engineering Roadmap
+# 🎯 Engineering Roadmap
 
-### Strengthening
-
-`Java`
-`DSA`
-`Backend Fundamentals`
-`REST API Development`
-
-### Building
-
-`Full-Stack Applications`
-`AI-Powered Software`
-`Production-Style Projects`
-
-### Learning Next
-
-`Spring Boot`
-`PostgreSQL in Depth`
-`Docker`
-`Redis`
-`Testing`
-`System Design`
-
-### Long-Term Direction
-
-**Backend Engineering • Software Engineering • AI-Integrated Applications**
+| Now | Next | Direction |
+|---|---|---|
+| Java | Spring Boot | Backend Engineering |
+| DSA | Docker | Software Engineering |
+| REST APIs | Redis | Scalable Systems |
+| Full Stack | Testing | AI-Integrated Products |
+| AI Integration | System Design | Production Engineering |
 
 ---
 
@@ -321,15 +316,33 @@ I'm always interested in conversations around:
 
 **Software Engineering • Java • Backend Development • DSA • System Design • AI-Powered Products**
 
-Add your verified links here before publishing:
+## 🤝 Let's Connect
 
-`LinkedIn` • `LeetCode` • `Portfolio` • `Resume`
+<p align="center">
+
+<a href="https://www.linkedin.com/in/parneet-kaur-858472274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/parneetk3298/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
+<br/>
+
 <div align="center">
 
-### Build → Understand → Engineer → Improve
+---
+
+### `BUILD` → `UNDERSTAND` → `ENGINEER` → `IMPROVE`
 
 **Learning to build systems, not just features.**
 

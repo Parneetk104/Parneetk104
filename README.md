@@ -194,7 +194,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   alt="Languages"
 />
 
-<br/><br/>
+<br/>
 
 <b>Frontend & Backend</b>
 <br/><br/>
@@ -204,7 +204,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   alt="Frontend and backend technologies"
 />
 
-<br/><br/>
+<br/>
 
 <b>Data & Developer Tools</b>
 <br/><br/>
@@ -214,7 +214,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   alt="Databases and developer tools"
 />
 
-<br/><br/>
+<br/>
 
 <b>Currently Exploring</b>
 <br/><br/>

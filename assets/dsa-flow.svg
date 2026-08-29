@@ -1,0 +1,347 @@
+<svg
+width="1400"
+height="190"
+viewBox="0 0 1400 190"
+fill="none"
+xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+```
+<linearGradient id="lineGradient"
+  x1="100"
+  y1="0"
+  x2="1300"
+  y2="0"
+  gradientUnits="userSpaceOnUse">
+
+  <stop stop-color="#38BDF8"/>
+  <stop offset="0.5" stop-color="#6366F1"/>
+  <stop offset="1" stop-color="#A855F7"/>
+
+</linearGradient>
+
+<filter id="softGlow"
+  x="-50%"
+  y="-50%"
+  width="200%"
+  height="200%">
+
+  <feGaussianBlur
+    stdDeviation="5"
+    result="blur"/>
+
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+
+</filter>
+```
+
+  </defs>
+
+  <!-- Main Flow Line -->
+
+<line
+ x1="140"
+ y1="95"
+ x2="1260"
+ y2="95"
+ stroke="#334155"
+ stroke-width="3"
+ stroke-linecap="round"/>
+
+  <!-- Animated progress line -->
+
+<line
+ x1="140"
+ y1="95"
+ x2="1260"
+ y2="95"
+ stroke="url(#lineGradient)"
+ stroke-width="4"
+ stroke-linecap="round"
+ stroke-dasharray="150 970"
+ filter="url(#softGlow)">
+
+```
+<animate
+  attributeName="stroke-dashoffset"
+  values="1120;0"
+  dur="8s"
+  repeatCount="indefinite"/>
+```
+
+  </line>
+
+  <!-- STEP 1 -->
+
+  <g>
+
+```
+<circle
+  cx="140"
+  cy="95"
+  r="28"
+  fill="#0F172A"
+  stroke="#38BDF8"
+  stroke-width="2"/>
+
+<circle
+  cx="140"
+  cy="95"
+  r="6"
+  fill="#38BDF8">
+
+  <animate
+    attributeName="r"
+    values="5;8;5"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<text
+  x="140"
+  y="46"
+  text-anchor="middle"
+  fill="#F8FAFC"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="18"
+  font-weight="700">
+  UNDERSTAND
+</text>
+
+<text
+  x="140"
+  y="150"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  problem
+</text>
+```
+
+  </g>
+
+  <!-- STEP 2 -->
+
+  <g>
+
+```
+<circle
+  cx="420"
+  cy="95"
+  r="28"
+  fill="#0F172A"
+  stroke="#4F8EF7"
+  stroke-width="2"/>
+
+<text
+  x="420"
+  y="102"
+  text-anchor="middle"
+  fill="#93C5FD"
+  font-family="monospace"
+  font-size="20"
+  font-weight="700">
+  O(n²)
+</text>
+
+<text
+  x="420"
+  y="46"
+  text-anchor="middle"
+  fill="#F8FAFC"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="18"
+  font-weight="700">
+  BRUTE FORCE
+</text>
+
+<text
+  x="420"
+  y="150"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  baseline
+</text>
+```
+
+  </g>
+
+  <!-- STEP 3 -->
+
+  <g>
+
+```
+<circle
+  cx="700"
+  cy="95"
+  r="28"
+  fill="#0F172A"
+  stroke="#6366F1"
+  stroke-width="2"/>
+
+<text
+  x="700"
+  y="103"
+  text-anchor="middle"
+  fill="#A5B4FC"
+  font-family="monospace"
+  font-size="25"
+  font-weight="700">
+  ◇
+</text>
+
+<text
+  x="700"
+  y="46"
+  text-anchor="middle"
+  fill="#F8FAFC"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="18"
+  font-weight="700">
+  PATTERN
+</text>
+
+<text
+  x="700"
+  y="150"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  recognize
+</text>
+```
+
+  </g>
+
+  <!-- STEP 4 -->
+
+  <g>
+
+```
+<circle
+  cx="980"
+  cy="95"
+  r="28"
+  fill="#0F172A"
+  stroke="#8B5CF6"
+  stroke-width="2"/>
+
+<text
+  x="980"
+  y="102"
+  text-anchor="middle"
+  fill="#C4B5FD"
+  font-family="monospace"
+  font-size="19"
+  font-weight="700">
+  O(n)
+</text>
+
+<text
+  x="980"
+  y="46"
+  text-anchor="middle"
+  fill="#F8FAFC"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="18"
+  font-weight="700">
+  OPTIMIZE
+</text>
+
+<text
+  x="980"
+  y="150"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  improve
+</text>
+```
+
+  </g>
+
+  <!-- STEP 5 -->
+
+  <g>
+
+```
+<circle
+  cx="1260"
+  cy="95"
+  r="28"
+  fill="#0F172A"
+  stroke="#A855F7"
+  stroke-width="2"/>
+
+<text
+  x="1260"
+  y="104"
+  text-anchor="middle"
+  fill="#D8B4FE"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="23"
+  font-weight="700">
+  ✓
+</text>
+
+<text
+  x="1260"
+  y="46"
+  text-anchor="middle"
+  fill="#F8FAFC"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="18"
+  font-weight="700">
+  EXPLAIN
+</text>
+
+<text
+  x="1260"
+  y="150"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14">
+  interview-ready
+</text>
+```
+
+  </g>
+
+  <!-- Animated traveling point -->
+
+<circle
+ cx="140"
+ cy="95"
+ r="7"
+ fill="#F8FAFC"
+ filter="url(#softGlow)">
+
+```
+<animate
+  attributeName="cx"
+  values="140;420;700;980;1260;140"
+  keyTimes="0;0.2;0.4;0.6;0.8;1"
+  dur="8s"
+  repeatCount="indefinite"/>
+
+<animate
+  attributeName="opacity"
+  values="0;1;1;1;1;0"
+  dur="8s"
+  repeatCount="indefinite"/>
+```
+
+  </circle>
+
+</svg>

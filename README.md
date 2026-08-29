@@ -9,22 +9,25 @@
 
 <p align="center">
 
-<a href=https://www.linkedin.com/in/parneet-kaur-858472274>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/parneet-kaur-858472274/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:pk7211171@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"
-    />
-  </a>
-
-<a href="https://leetcode.com/u/parneetk3298/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
-<a href="YOUR_RESUME_URL">
-  <img src="https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readme&logoColor=white" />
+<a href="https://leetcode.com/u/parneetk3298/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+    alt="LeetCode"
+  />
 </a>
 
 </p>
@@ -41,31 +44,24 @@
 </div>
 <br/>
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-  <h2>250+</h2>
-  <sub>LEETCODE</sub>
-</td>
-
-<td align="center" width="25%">
-  <h2>150+</h2>
-  <sub>GEEKSFORGEEKS</sub>
-</td>
-
-<td align="center" width="25%">
-  <h2>9.3</h2>
-  <sub>CGPA</sub>
-</td>
-
-<td align="center" width="25%">
-  <h2>700+</h2>
-  <sub>DSA COMMITS</sub>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/250%2B-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="250+ LeetCode"
+  />
+  <img
+    src="https://img.shields.io/badge/150%2B-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    alt="150+ GeeksforGeeks"
+  />
+  <img
+    src="https://img.shields.io/badge/9.3%2F10-CGPA-2563EB?style=for-the-badge&logo=googleclassroom&logoColor=white"
+    alt="9.3 CGPA"
+  />
+  <img
+    src="https://img.shields.io/badge/700%2B-DSA%20Commits-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="700+ DSA Commits"
+  />
+</p>
 
 ## 👩‍💻 About
 
@@ -75,7 +71,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 
 
-## 🚀 Selected Work
+## Selected Work
 
 ### 🤖 CodeMentor AI
 *** AI-Powered DSA Learning Platform ***
@@ -96,7 +92,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 <p align="center">
 
 <a href="https://github.com/Parneetk104/Codementor-ai">
-  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="CodeMentor AI Repository" />
 </a>
 
@@ -108,39 +104,53 @@ I enjoy building applications, but I'm increasingly interested in what happens *
   <img src="https://img.shields.io/badge/Architecture-2563EB?style=for-the-badge" />
 </a> -->
 
----
+<br/>
 
-## 🧠 Algorithmic Problem Solving
+## Algorithmic Problem Solving
 
 <div align="center">
 
-### 250+ LeetCode • 150+ GFG • 700+ DSA Commits
+### <strong>250+ LeetCode • 150+ GFG • 700+ DSA Commits</strong>
 
-
-**Java-first • Pattern-driven • Interview-focused**
-
-<br/>
-
-<img src="https://img.shields.io/badge/250%2B-LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/150%2B-GeeksforGeeks-111827?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" />
-<img src="https://img.shields.io/badge/Java-Core-111827?style=flat-square&logo=openjdk&logoColor=F89820" />
-<img src="https://img.shields.io/badge/700%2B-Commits-111827?style=flat-square&logo=git&logoColor=F05032" />
+<img
+  src="https://img.shields.io/badge/Java--first-111827?style=for-the-badge&logo=openjdk&logoColor=F89820"
+  alt="Java first"
+/>
+<img
+  src="https://img.shields.io/badge/Pattern--Driven-111827?style=for-the-badge&logo=codewars&logoColor=white"
+  alt="Pattern driven"
+/>
+<img
+  src="https://img.shields.io/badge/Interview--Focused-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866"
+  alt="Interview focused"
+/>
 
 </div>
 
 <br/>
 
-### Patterns I Think In
+### Core Patterns
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Two%20Pointers-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sliding%20Window-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binary%20Search-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+</p>
 
-`Arrays`   `Two Pointers`   `Sliding Window`   `Binary Search`
+<p align="center">
+  <img src="https://img.shields.io/badge/Linked%20Lists-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stacks-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trees-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heaps-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+</p>
 
-`Linked Lists`   `Stacks`   `Trees`   `Heaps`
-
-`Greedy`   `Backtracking`   `Graphs`   `Dynamic Programming`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Greedy-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backtracking-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphs-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+</p>
 
 <br/>
 
@@ -162,7 +172,7 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 <a href="https://github.com/Parneetk104/Dsa-LeetCode">
   <img
-    src="https://img.shields.io/badge/Explore_DSA_Repository-181717?style=flat-square&logo=github&logoColor=white"
+   src="https://img.shields.io/badge/Explore_DSA_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="Explore DSA Repository"
   />
 </a>
@@ -171,81 +181,46 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 ---
 
-# 🛠️ Technical Toolkit
-
-## Tech Stack
+## Stack
 
 <div align="center">
 
-### Core Languages
+### Core Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Java, JavaScript and Python" />
-
-<br/>
-
-`Java`   `JavaScript`   `Python`   `SQL`
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="React, Vite, Tailwind CSS, HTML and CSS" />
-
-<br/>
-
-`React`   `Vite`   `Tailwind CSS`   `HTML`   `CSS`
+<img
+  src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,python,mongodb,postgres,git,github,linux,postman&theme=dark"
+  alt="Core stack"
+/>
 
 <br/><br/>
 
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" />
-
-<br/>
-
-`Node.js`   `Express.js`   `REST APIs`
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="MongoDB and PostgreSQL" />
-
-<br/>
-
-`MongoDB`   `PostgreSQL`
-
-<br/><br/>
-
-### Engineering Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" alt="Git, GitHub, Postman and Linux" />
-
-<br/>
-
-`Git`   `GitHub`   `Postman`   `Linux`
+<sub>
+Java • JavaScript • React • Node.js • Express • Python • MongoDB • PostgreSQL • Git • GitHub • Linux • Postman
+</sub>
 
 <br/><br/>
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=spring,docker,redis&theme=dark" alt="Spring Boot, Docker and Redis" />
+<img
+  src="https://skillicons.dev/icons?i=spring,docker,redis&theme=dark"
+  alt="Currently exploring"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/System_Design-111827?style=flat-square&logo=diagramsdotnet&logoColor=60A5FA" alt="System Design" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=flat-square&logo=openai&logoColor=white" alt="AI and Machine Learning" />
-
-<br/>
-
-<sub>
-Spring Boot • Docker • Redis • System Design • AI/ML
-</sub>
+<img
+  src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=60A5FA"
+  alt="System Design"
+/>
+<img
+  src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=for-the-badge&logo=openai&logoColor=white"
+  alt="AI ML"
+/>
 
 </div>
 
-
----
+<br/>
 
 > ### Moving from **“Can I build this?”** toward **“Why should it be designed this way?”**
 
@@ -253,9 +228,9 @@ I'm deliberately learning to think beyond features and consider:
 
 `Architecture` • `Separation of Concerns` • `API Design` • `Data Flow` • `Maintainability` • `Testing` • `Scalability`
 
----
+<br/>
 
-## 🤝 Contact
+## Contact
 
 I'm always interested in conversations around:
 
@@ -263,24 +238,33 @@ I'm always interested in conversations around:
 
 <p align="center">
 
-<a href=https://www.linkedin.com/in/parneet-kaur-858472274>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/parneet-kaur-858472274/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:pk7211171@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
 <a href="https://leetcode.com/u/parneetk3298/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116" />
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+    alt="LeetCode"
+  />
 </a>
 
-<a href="YOUR_RESUME_URL">
-  <img src="https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readme&logoColor=white" />
+<a href="YOUR_ACTUAL_RESUME_URL">
+  <img
+    src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="Resume"
+  />
 </a>
-
 </p>
 
 <br/>

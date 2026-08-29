@@ -73,8 +73,9 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 ## Selected Work
 
-### 🤖 CodeMentor AI
-*** AI-Powered DSA Learning Platform ***
+### CodeMentor AI
+
+**AI-Powered DSA Learning Platform**
 
 > A system designed to help developers **understand coding problems**, rather than simply generating solutions.
 
@@ -185,42 +186,49 @@ I enjoy building applications, but I'm increasingly interested in what happens *
 
 <div align="center">
 
-### Core Stack
+<b>Languages</b>
+<br/><br/>
 
 <img
-  src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,python,mongodb,postgres,git,github,linux,postman&theme=dark"
-  alt="Core stack"
+  src="https://skillicons.dev/icons?i=java,js,python&theme=dark"
+  alt="Languages"
 />
 
 <br/><br/>
 
-<sub>
-Java • JavaScript • React • Node.js • Express • Python • MongoDB • PostgreSQL • Git • GitHub • Linux • Postman
-</sub>
+<b>Frontend & Backend</b>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&theme=dark"
+  alt="Frontend and backend technologies"
+/>
 
 <br/><br/>
 
-### Currently Exploring
+<b>Data & Developer Tools</b>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,linux,postman&theme=dark"
+  alt="Databases and developer tools"
+/>
+
+<br/><br/>
+
+<b>Currently Exploring</b>
+<br/><br/>
 
 <img
   src="https://skillicons.dev/icons?i=spring,docker,redis&theme=dark"
-  alt="Currently exploring"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=60A5FA"
-  alt="System Design"
-/>
-<img
-  src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=for-the-badge&logo=openai&logoColor=white"
-  alt="AI ML"
+  alt="Currently exploring Spring Boot, Docker and Redis"
 />
 
 </div>
 
 <br/>
+
+## Engineering Direction
 
 > ### Moving from **“Can I build this?”** toward **“Why should it be designed this way?”**
 
